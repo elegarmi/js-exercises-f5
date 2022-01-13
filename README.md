@@ -21,7 +21,7 @@ Exercises implemented with Javascript for Factoria F5 Bootcamp.
 
 06. Escribe un programa que pida 3 números y escriba en la pantalla el mayor de los tres. - (06-highest-of-three)
 
-07. Escribe un programa que pida un número y diga si es divisible por 2 - (07-divisible-by-three)
+07. Escribe un programa que pida un número y diga si es divisible por 2 - (07-divisible-by-two)
 
 08. Escribe un programa que pida una frase y escriba cuantas veces aparece la letra a - (08-count-a-in-phrase)
 
