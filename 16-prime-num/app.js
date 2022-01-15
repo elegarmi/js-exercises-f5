@@ -2,9 +2,6 @@ let container = document.getElementById("container");
 let num = parseInt(prompt('Enter the number'));
 let divisors = [];
 
-// Is a prime number if num > 1, divisible only by 1 and itself
-// Is not a prime number if num = 1, divisible by itself and more
-
 for(i=0; i <= num; i++ ) {
     if(num % i === 0) {
         divisors.push(i); 
