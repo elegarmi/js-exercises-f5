@@ -9,12 +9,11 @@ for(i=0; i <= num; i++ ) {
 }
 
 if(num % 1 === 0 && num % num === 0) {
-    // prime
+    
     if(num != 1 && divisors.length == 2) {
         container.innerHTML = `${num} is a prime number`;
     }
 
-    // !prime
     if(num == 1) {
         container.innerHTML = `${num} is not a prime number`;
     }
