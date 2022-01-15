@@ -23,4 +23,4 @@ divisors1.forEach(divisor => {
     };
 });
 
-container.innerHTML += `${num} and ${num2} are divisible by ${commonDivisors}`;
+container.innerHTML = `${num} and ${num2} are divisible by ${commonDivisors}`;
